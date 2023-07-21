@@ -13,7 +13,7 @@ to reuse and modify the code for your own projects...
 
 
 
-##**Features** ##
+## **Features** 
 
 -**Automated subnetting:** Effortlessly calculate subnet addresses, broadcast addresses and usable ranges with just a few clicks.
 The Automatic IPv4 Calculator takes care of the complex calculations for you and all is done without internet connection.
@@ -28,7 +28,7 @@ for sending your feedback or issues on the applicattion.
 Your input helps to enhance the application
 
 
-***********************************##SCREENSHOT OF THE AUTOMATICIPV4- CALCULATOR**************************
+***********************************#SCREENSHOT OF THE AUTOMATICIPV4- CALCULATOR**************************
 
 
 
@@ -56,16 +56,19 @@ Light mode:
 
 
 
-**How to Use**
+## **How to Use**
 1. **Download and Install**
    - To get started, download the zip file and install it on your pc, it comes with all the dependencies no need of additional files to run it!
-   -  Extract the zip file to your desired location on your machine. Enjoy subnetting!
+   -  Extract the zip file to your desired location on your machine. Enjoy subnetting! This installation works for  Linux, windows and mscOs.
   
-     **Install with git on all platforms**
-       **Linux**
-   Open a terminal in your desired directory and run git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git
+   -  install with   git clone n all platforms
+       **Linux, Windows and macOs**
+    Open a terminal in your desired directory and run
 
-   Do the same for macOS and windows if you have git installed in your machine
+
+
+           git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git
+You must have 'git' installed before using this
       
 
 
@@ -98,24 +101,24 @@ Light mode:
    adapt it for your specific needs or integrate it into other projects. Feel free to fork this repository and experiment with the code. and also you cann credit me if you don't mind.
 
 
-**Feedback and Contributions**
+## **Feedback and Contributions**
 
 I believe in the power of collaboration. If you have ideas for improvements, find bugs, or want to contribute to the project, please open an issue or submit a pull request on the
 GitHub repository. you can also use the application to senf me a feedback. I will definitely receive it and get back to you. Your feedback and contributions are highly apprreciated and 
 help make this handy tool for Network designers even better.
 
 
-**For networking, and cybersecurity content or programming**
-  Check out my YouTube chennel
+### **For networking, and cybersecurity content or programming:**
 
-  **Douglas(cyberwhiz) | Cybersecurity**
-  **[YouTube](https://www.youtube.com/@douglasop_)**
-
-  I hope you find the Automatic IPv4 Calculator helpful for your subnetting needs. THank you for using the application!
+Check out my YouTube chennel
+**Douglas(cyberwhiz) | Cybersecurity**
+**[YouTube](https://www.youtube.com/@douglasop_)**
+I hope you find the Automatic IPv4 Calculator helpful for your subnetting needs.
+Thank you for using the application!
 
   
-  Best regards,
-  Douglas | Cybersecurity
+Best regards,
+Douglas | Cybersecurity
 
 
 
