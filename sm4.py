@@ -54,9 +54,9 @@ def save_feedback_to_excel(feedback_data):
 
 def send_feedback_email(feedback):
         # Email configuration
-        sender_email = "cyberwhizy@gmail.com"
-        receiver_email = "cyberwhizy@gmail.com"
-        email_subject = "Feedback from Your App"
+        sender_email =  #Update with your sender email
+        receiver_email =  #Update with your receiver email
+        email_subject = "Feedback from Your App" #Set your email subject
         smtp_server = "smtp.gmail.com"  # Update with your SMTP server details
         smtp_port = 587  # Update with your SMTP port
 
