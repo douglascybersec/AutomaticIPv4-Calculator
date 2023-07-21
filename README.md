@@ -92,7 +92,7 @@ Light mode:
 
 
 
-                    **Python Script for customization**
+   **Python Script for customization**
 
    To explore and customize the python script provided in this repository, simply use the file    sm4.py that contains the logic for subnetting calculations, allowing you to
    adapt it for your specific needs or integrate it into other projects. Feel free to fork this repository and experiment with the code. and also you cann credit me if you don't mind.
