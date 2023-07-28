@@ -67,16 +67,16 @@ Light mode:
 
 
 
-           git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git
+           'git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git'
 You must have 'git' installed before using this
       
 
 
 3. **Run the Appliction**
      - Open the extracted folder and locate the main executable file.
-     - On Windows: Double-click the sm4.exe file with an icon.
-     - On macOs: Double-click the sm4.app file with an icon.
-     - On linux: Run the sm4 file.
+     - On Windows: Double-click the autoipv4.exe file with an icon.
+     - On macOs: Double-click the autoipv4.app file with an icon.
+     - On linux: Run the autoipv4 file.
   
 4. **Explore the GUI**
      - You will be greeted by the Automatic IPv4 Calculator's intuitive and customizable GUi.
@@ -97,7 +97,7 @@ You must have 'git' installed before using this
 
    **Python Script for customization**
 
-   To explore and customize the python script provided in this repository, simply use the file    sm4.py that contains the logic for subnetting calculations, allowing you to
+   To explore and customize the pythonautoipv4.py that contains the logic for subnetting calculations, allowing you to
    adapt it for your specific needs or integrate it into other projects. Feel free to fork this repository and experiment with the code. and also you cann credit me if you don't mind.
 
 
