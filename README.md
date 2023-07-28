@@ -67,7 +67,7 @@ Light mode:
 
 
 
-           'git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git'
+            git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git
 You must have 'git' installed before using this
       
 
