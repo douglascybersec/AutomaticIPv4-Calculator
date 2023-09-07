@@ -4,7 +4,7 @@
 
 
 **(Douglas | Cybersecurity)!**
-[YouTube](https://www.youtube.com/@douglasop_)
+[YouTube](https://www.youtube.com/@douglascybersec)
 
 
 Welcome to the Automatic IPv4 Calculator, powerful Python application that automates IPv4 subnetting fopr both Fixed Length Subnet Masking(FLSM) and Variable Length Subnet Masking(VLSM) scenarios.
@@ -59,15 +59,12 @@ Light mode:
 ## **How to Use**
 1. **Download and Install**
    - To get started, download the zip file and install it on your pc, it comes with all the dependencies no need of additional files to run it!
-   -  Extract the zip file to your desired location on your machine. Enjoy subnetting! This installation works for  Linux, windows and mscOs.
-  
-   -  install with   git clone n all platforms
-       **Linux, Windows and macOs**
+   -  install with   git clone available to work  in windows platform so far but you can get the python file and use in other platforms too.    
     Open a terminal in your desired directory and run
 
 
 
-            git clone https://github.com/Piusgit/AutomaticIPv4-Calculator.git
+            git clone https://github.com/douglascybersec/AutomaticIPv4-Calculator.git
 You must have 'git' installed before using this
       
 
@@ -75,8 +72,7 @@ You must have 'git' installed before using this
 3. **Run the Appliction**
      - Open the extracted folder and locate the main executable file.
      - On Windows: Double-click the autoipv4.exe file with an icon.
-     - On macOs: Double-click the autoipv4.app file with an icon.
-     - On linux: Run the autoipv4 file.
+       
   
 4. **Explore the GUI**
      - You will be greeted by the Automatic IPv4 Calculator's intuitive and customizable GUi.
@@ -111,8 +107,8 @@ help make this handy tool for Network designers even better.
 ### **For networking, and cybersecurity content or programming:**
 
 Check out my YouTube chennel
-**Douglas(cyberwhiz) | Cybersecurity**
-**[YouTube](https://www.youtube.com/@douglasop_)**
+**Douglas | Cybersecurity**
+**[YouTube](https://www.youtube.com/@douglascybersec)**
 I hope you find the Automatic IPv4 Calculator helpful for your subnetting needs.
 Thank you for using the application!
 
