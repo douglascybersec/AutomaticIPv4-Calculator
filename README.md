@@ -22,7 +22,7 @@ for sending your feedback or issues on the applicattion.
 
 -**FLSM and VLSM Support:** Whether you're working with Fixed Length Subnet Mask or Variable Length Subnet Mask, this application has got you covered!
 
--**Copy Functionality:** Easily copy calcu;ated results to your clipboard for quick and  convenient use in other applications.
+-**Copy Functionality:** Easily copy calculated results to your clipboard for quick and  convenient use in other applications.
 
 -**Feedback and Support:** Your feedback is valuable! If you encounter any issues, have questions, or want to suggest improvements, please open an issue on the feedback feature.
 Your input helps to enhance the application
