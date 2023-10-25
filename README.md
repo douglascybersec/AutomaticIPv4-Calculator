@@ -58,8 +58,8 @@ Light mode:
 
 ## **How to Use**
 1. **Download and Install**
-   - To get started, download the zip file and install it on your pc, it comes with all the dependencies no need of additional files to run it!
-   -  install with   git clone available to work  in windows platform so far but you can get the python file and use in other platforms too.    
+   - To get started, **download the zip file** and install it on your pc, it comes with all the dependencies no need of additional files to run it!
+   -  **install with git clone** available to work  in windows platform so far but you can get the python file and use in other platforms too.    
     Open a terminal in your desired directory and run
 
 
@@ -104,9 +104,9 @@ GitHub repository. you can also use the application to send me a feedback. I wil
 help make this handy tool for Network designers even better.
 
 
-### **For networking, and cybersecurity content or programming:**
+### **For Networking, and Cybersecurity content or Hacking and  Programming:**
 
-Check out my YouTube chennel
+Check out my YouTube channel
 **Douglas | Cybersecurity**
 **[YouTube](https://www.youtube.com/@douglascybersec)**
 I hope you find the Automatic IPv4 Calculator helpful for your subnetting needs.
