@@ -93,14 +93,14 @@ You must have 'git' installed before using this
 
    **Python Script for customization**
 
-   To explore and customize the pythonautoipv4.py that contains the logic for subnetting calculations, allowing you to
-   adapt it for your specific needs or integrate it into other projects. Feel free to fork this repository and experiment with the code. and also you cann credit me if you don't mind.
+   To explore and customize the code use the python file **autoipv4.py** that contains the logic for subnetting calculations, allowing you to
+   adapt it for your specific needs or integrate it into other projects. Feel free to fork this repository and experiment with the code. and also you can credit me if you don't mind.
 
 
 ## **Feedback and Contributions**
 
 I believe in the power of collaboration. If you have ideas for improvements, find bugs, or want to contribute to the project, please open an issue or submit a pull request on the
-GitHub repository. you can also use the application to senf me a feedback. I will definitely receive it and get back to you. Your feedback and contributions are highly apprreciated and 
+GitHub repository. you can also use the application to send me a feedback. I will definitely receive it and get back to you. Your feedback and contributions are highly apprreciated and 
 help make this handy tool for Network designers even better.
 
 
