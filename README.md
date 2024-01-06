@@ -3,7 +3,7 @@
 
 
 
-**(Douglas | Cybersecurity)!**
+**(Douglas | Cybersecurity)**
 [YouTube](https://www.youtube.com/@douglascybersec)
 
 
@@ -58,8 +58,8 @@ Light mode:
 
 ## **How to Use**
 1. **Download and Install**
-   - To get started, **download the zip file** and install it on your pc, it comes with all the dependencies no need of additional files to run it!
-   -  **install with git clone** available to work  in windows platform so far but you can get the python file and use in other platforms too.    
+   - To get started, **download the zip file** and install it on your pc, it comes with all the dependencies no need of additional files to run it.
+   -  **install with git clone** available to work  in windows platform so far but you can reuse the python file iin other OS(Mac).    
     Open a terminal in your desired directory and run
 
 
@@ -71,7 +71,7 @@ You must have 'git' installed before using this
 
 3. **Run the Appliction**
      - Open the extracted folder and locate the main executable file.
-     - On Windows: Double-click the autoipv4.exe file with an icon.
+     - Double-click the autoipv4.exe file with an icon.
        
   
 4. **Explore the GUI**
