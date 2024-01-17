@@ -32,8 +32,8 @@ def resource_path(relative_path):
 
 
 
-customtkinter.set_appearance_mode("System")  # Modes: "System" (standard), "Dark", "Light"
-customtkinter.set_default_color_theme("dark-blue")  # Themes: "blue" (standard), "green", "dark-blue"
+customtkinter.set_appearance_mode("System")  #Other Modes: "System" (standard), "Dark", "Light"
+customtkinter.set_default_color_theme("dark-blue")  #Other Themes: "blue" (standard), "green", "dark-blue"
 
 
 def change_scaling_event(app, new_scaling: str):
@@ -71,7 +71,7 @@ def send_feedback_email(feedback):
         sender_email = "cyberwhizy@gmail.com" #update this with your own email address dedicated for the application.
         receiver_email = "cyberwhizy@gmail.com" #Update this with your own email address dedicated for the application.
         email_subject = "Feedback from Your App"
-        smtp_server = "smtp.gmail.com"  # Update with your SMTP server details
+        smtp_server = "smtp.gmail.com"  # Update to your own SMTP server details
         smtp_port = 587  # Update with your SMTP port
 
         # Create a multipart message to include both plain text and HTML
@@ -93,7 +93,7 @@ def send_feedback_email(feedback):
                 smtp_connection.sendmail(sender_email, receiver_email, message.as_string())
                 smtp_connection.quit()
         except Exception as e:
-                error_message = f"Failed to send feedback, make sure you have a stable internet connection: {e}"
+                error_message = f"Failed to send feedback, make sure you have a stable internet connection buddy: {e}"
                 messagebox.showerror("Error", error_message)
 
        
