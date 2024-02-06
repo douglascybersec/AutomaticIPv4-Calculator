@@ -53,14 +53,8 @@ libopenblas64_v0.3.21-gcc_10_3_0.dll
 libffi-8.dll
 libcrypto-1_1.dll
 
-#ignore other files
-feed_me.xlsx
-base_library.zip
-autoipv4.exe
-.gitattributes
-appicon.ico
-LICENSE
-README.md
+#ignore tcl files
+*.tcl
 
 
 
